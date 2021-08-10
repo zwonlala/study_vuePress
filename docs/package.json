@@ -1,0 +1,19 @@
+{
+  "name": "study_vuePress",
+  "version": "0.0.1",
+  "description": "it&#39;s my first vuePress site",
+  "main": "index.js",
+  "authors": {
+    "name": "jiwonSong",
+    "email": "s26788761@naver.com"
+  },
+  "repository": "https://github.com/zwonlala/study_vuePress/study_vuePress",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
